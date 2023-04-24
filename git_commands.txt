@@ -3,8 +3,10 @@ git init: Initializes a new Git repository.
 git status: Shows the current status of the repository, including any changes that have been made.
 
 git add: Adds files to the staging area to be included in the next commit.
+- git add .
 
 git commit: Saves changes to the local repository.
+- git commit -m "message text"
 
 git log: Displays a history of the commits that have been made.
 
